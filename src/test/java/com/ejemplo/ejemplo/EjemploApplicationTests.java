@@ -10,7 +10,7 @@ class EjemploApplicationTests {
 
 	@Test
 	void test(){
-		Assertions.assertEquals(2,2);
+		Assertions.assertEquals(3,3);
 	}
 
 }
