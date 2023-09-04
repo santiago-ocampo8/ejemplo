@@ -10,6 +10,7 @@ class EjemploApplicationTests {
 
 	@Test
 	void test(){
+		System.out.println("hola mundo");
 		Assertions.assertEquals(5,5);
 	}
 
