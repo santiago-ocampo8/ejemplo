@@ -10,7 +10,8 @@ class EjemploApplicationTests {
 
 	@Test
 	void test(){
-		Assertions.assertEquals(2,2);
+		System.out.println("hola mundo");
+		Assertions.assertEquals(5,3);
 	}
 
 }
